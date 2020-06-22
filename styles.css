@@ -13,6 +13,10 @@
 	--ck-sample-editor-min-height: 400px;
 }
 
+.mshfi{
+	font-family: 'KFGQPC HAFS Uthmanic Script';
+}
+
 /* --------- EDITOR STYLES  ---------------------------------------------------------------------------------------- */
 
 .editor__editable,
