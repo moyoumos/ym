@@ -13,6 +13,14 @@
 	--ck-sample-editor-min-height: 400px;
 }
 
+@font-face {
+			font-family: 'KFGQPC HAFS Uthmanic Script';
+}
+
+.harlow{
+			font-family: 'KFGQPC HAFS Uthmanic Script';
+}
+
 /* --------- EDITOR STYLES  ---------------------------------------------------------------------------------------- */
 
 .editor__editable,
